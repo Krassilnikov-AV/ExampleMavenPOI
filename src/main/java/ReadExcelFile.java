@@ -29,6 +29,7 @@ public class ReadExcelFile {
 		System.out.println(result0 + "->" + result1 + "->" + result2 + "->" + result3 + "->" + result4 + "->" + result5);
 	}
 
+
 	// метод для самостоятельного определения формата считываемого значения
 	public static String getCelltext(Cell cell) {
 
